@@ -31,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanck66&show_icons=true&locale=en" alt="salmanck66" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanck66&" alt="salmanck66" /></p>
+<img src="https://www.codewars.com/users/salmanck66/badges/large" alt="CodeWars Badge">
 
