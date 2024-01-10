@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salmaul faris ck</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-&nbsp <img align = "center" width = "500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanck66&label=Profile%20views&color=0e75b6&style=flat" alt="salmanck66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanck66" alt="salmanck66" /></a> </p>
