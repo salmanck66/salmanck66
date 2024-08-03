@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanck66" alt="salmanck66" /></a> </p>
 
-- 🔭 I’m currently working on **Modern Full Fledge Ecom Website**
+- 🔭 I’m currently working on **Print On Demand With Dropshipping**
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Dropshipping Services For Starters**
+- 👯 I’m looking to collaborate on **Print On Demand With Dropshipping**
 
-- 🤝 I’m looking for help with **Dropshipping Services For Starters**
+- 🤝 I’m looking for help with **Print On Demand With Dropshipping**
 
 - 👨‍💻 All of my projects are available at [https://github.com/salmanck66](https://github.com/salmanck66)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Web Development And Deployment**
 
 - 📫 How to reach me **salmanulfaris.c.k10@gmail.com**
 
