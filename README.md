@@ -24,7 +24,7 @@ What I enjoy most is the unglamorous, production side: payment flows, courier AP
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ChatAPP_MERN](https://github.com/salmanck66/ChatAPP_MERN)** | Real-time one-to-one chat with presence, cookie-authenticated WebSockets, password reset and one-click demo accounts. | React · Node · Express · MongoDB · Socket.IO |
+| **[ChatAPP_MERN](https://github.com/salmanck66/ChatAPP_MERN)** · [live](https://chatwaer.onrender.com/) | Real-time one-to-one chat with presence, cookie-authenticated WebSockets, password reset and one-click demo accounts. | React · Node · Express · MongoDB · Socket.IO |
 | **[ClearCut Studio](https://github.com/salmanck66/ClearCut-Studio-AI-Image-Editing-Canvas-Tools)** · [live](https://salmanck66.github.io/ClearCut-Studio-AI-Image-Editing-Canvas-Tools/) | Browser-only product-photo editor: on-device AI background removal, logo blur, uniform canvas, watermark and batch export. No backend. | JS · Canvas · WebAssembly |
 | **[GlassUI](https://github.com/salmanck66/GlassUI)** | "Liquid Glass" dock and widgets for Windows 11, shipped as a packaged release. | Windows desktop app |
 | **[JCClub e-commerce (v1)](https://github.com/salmanck66/Ecommerce-Project-)** | My first full-stack store, built from scratch: storefront, admin panel, Razorpay with server-side signature verification, Cloudinary, OTP login. | Node · Express · MongoDB · Handlebars |
